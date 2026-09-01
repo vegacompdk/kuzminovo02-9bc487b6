@@ -16,7 +16,7 @@ import {
   Users,
 } from "lucide-react";
 
-import heroAsset from "@/assets/hero.jpg.asset.json";
+import heroAsset from "@/assets/hero-kuzminovo.jpg.asset.json";
 import runnerAsset from "@/assets/runner.jpg.asset.json";
 import bikeAsset from "@/assets/bike.jpg.asset.json";
 import hikersAsset from "@/assets/hikers.jpg.asset.json";
