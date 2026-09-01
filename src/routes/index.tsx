@@ -16,7 +16,7 @@ import {
   Users,
 } from "lucide-react";
 
-import heroAsset from "@/assets/hero.jpg.asset.json";
+import heroAsset from "@/assets/hero-kuzminovo.jpg.asset.json";
 import runnerAsset from "@/assets/runner.jpg.asset.json";
 import bikeAsset from "@/assets/bike.jpg.asset.json";
 import hikersAsset from "@/assets/hikers.jpg.asset.json";
@@ -146,7 +146,7 @@ function Index() {
       <section id="top" className="relative isolate flex min-h-[92vh] items-center overflow-hidden">
         <img
           src={heroAsset.url}
-          alt="Lúka na kopci Kuzmínovo s výhľadom na mesto v údolí a hory"
+          alt="Letecký pohľad na zelené lúky a lesy kopca Kuzmínovo s Oravskou Magurou v pozadí"
           width={1920}
           height={1088}
           className="absolute inset-0 -z-10 h-full w-full object-cover"
